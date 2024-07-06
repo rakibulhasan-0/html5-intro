@@ -1,0 +1,13 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+nav > li > {
+    text-decoration: none;
+}
+footer {
+    text-align:end;
+}
+.Baby{
+    background-color: chartreuse;
+}
