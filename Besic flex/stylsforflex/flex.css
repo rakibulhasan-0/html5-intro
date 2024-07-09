@@ -1,0 +1,18 @@
+.Parents{
+    padding: 25px;
+    background-color: bisque;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    height: 350px;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.Child{
+    border: 5px solid rgb(215, 26, 26);
+    background-color: chocolate;
+    font-size: 22px;
+    padding: 20px;
+}
